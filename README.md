@@ -76,6 +76,8 @@ Snack at [@jhhayashi/project2-solution](https://snack.expo.io/@jhhayashi/project
 ==========================
 ==========================
 
+Problems I ran into 8/30/20:
+
 https://youtu.be/QHorNUuEXc0 Navigation
 
 To configure expo app properly 2020:
